@@ -1,3 +1,3 @@
-<meta http-equiv="refresh" content="0;URL='https://www.blitzcoder.org/forum/topics.php?category=23'" />
+<meta http-equiv="refresh" content="0;URL='https://www.blitzcoder.org/forum/topic.php?id=1539'" />
 
 
