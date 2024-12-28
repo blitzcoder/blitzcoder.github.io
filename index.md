@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0;URL='https://blitzcoder.org'" />  
+<meta http-equiv="refresh" content="0;URL='https://blitzbasic.org'" />  
 <h3>Redirecting you to BlitzCoder Community Forums...</h3>
 <!--
 Network under maintenance. We will be back soon.
